@@ -5,11 +5,15 @@ body {
 	font-family: "Arial", sans-serif;
 }
 
-
 #header {
 	background-color: #0D1B2A;
 	color: white;
 	display: inline;
+	font-size: 20px;
+}
+
+.header_title {
+	font-size: 30px;
 }
 
 .org {
