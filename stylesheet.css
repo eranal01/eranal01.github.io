@@ -6,6 +6,16 @@ body {
 }
 
 
+#header {
+	background-color: #0D1B2A;
+	color: white;
+	display: inline;
+}
+
 .org {
-font-weight: bold;
+	font-weight: bold;
+}
+
+.skills {
+	font-style: italic;
 }
