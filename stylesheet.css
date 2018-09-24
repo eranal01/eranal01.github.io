@@ -5,6 +5,13 @@ body {
 	font-family: "Arial", sans-serif;
 }
 
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+
 #header {
 	background-color: #0D1B2A;
     padding-top: 15px;
@@ -20,7 +27,7 @@ body {
     text-align: center;
 }
 
-a:link, a:visited {
+a.main_link:link, a.main_link:visited {
 	color: white;
 }
 
