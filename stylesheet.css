@@ -36,7 +36,7 @@ a.main_link:link, a.main_link:visited {
 .page_title {
 	font-size: 30px;
 	text-align: center;
-	font-style: bold;
+	font-weight: bold;
 }
 
 .org {
