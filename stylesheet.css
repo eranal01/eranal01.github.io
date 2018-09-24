@@ -1,3 +1,9 @@
+/* Style sheet for Emma Ranalli Portfolio
+Used for index.html, resume.html and bio.html
+Comp 20 Assignment 1
+September 25, 2018*/
+
+/* Rule for main body*/
 body {
 	background-color: #CAD8DE;
 	color: black;
@@ -6,7 +12,7 @@ body {
 }
 
 
-
+/* Rule for header */
 #header {
 	background-color: #0D1B2A;
     padding-top: 15px;
@@ -17,15 +23,18 @@ body {
 	border-color: #585858;
 }
 
+/* Rule for title text in header (Emma Ranalli) */
 .header_title {
 	font-size: 36px;
     text-align: center;
 }
 
+/* Rule for link text in header, remain white even when visited */
 a.main_link:link, a.main_link:visited {
 	color: white;
 }
 
+/* Rule for image on index.html */
 .profile {
 	width: 400px;
 	height: auto;
@@ -35,6 +44,7 @@ a.main_link:link, a.main_link:visited {
     border-radius: 50%;
 }
 
+/* Rule for image on bio.html */
 .soccer_img {
 	width: 400px;
 	height: auto;
@@ -43,16 +53,20 @@ a.main_link:link, a.main_link:visited {
     margin-left: auto;
     margin-right: auto;
 }
+
+/* Rule for page titles (Welcome! Resume Biography) */
 .page_title {
 	font-size: 30px;
 	text-align: center;
 	font-weight: bold;
 }
 
+/* Rule for resume.html text, bolding organization names */
 .org {
 	font-weight: bold;
 }
 
+/* Rule for resume.html text, italizing skill catagories */
 .skills {
 	font-style: italic;
 }
