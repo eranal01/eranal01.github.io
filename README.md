@@ -14,6 +14,8 @@ The following were NOT used: frames, styling elements/attributes in the HTML, ab
 
 All file names follow the guidelines and all content is stored in the following repo: eranal01.github.io.
 
+I did realize that to begin the project I had incorrectly assumed I needed to create my repository on the Haligan servers. In fact, it is desirable to do it on my local computer. The repository is now cloned locally. 
+
 
 I recieved help from Juliana (TA, thank you!!) on sublime issues. I discussed the GitHub and repo aspect of the assignment with Lena Chang in the early stages of development. I also used https://www.w3schools.com/howto often for help with the CSS. 
 
